@@ -238,17 +238,6 @@ jodconverter:
 18. 邮件发送、发送邮件功能。
 19. 短信发送、短信发送功能，可使用阿里云sms，腾讯云sms，支持拓展。
 
-### 官方微信群
-
-##### 因群达到200人以上，需加微信拉群
-
-<table>
-    <tr>
-        <td>微信群</td>
-        <td><img src="https://pan.xiaonuo.vip/?explorer/share/file&hash=ecc5LVAwwRuysFB28xQQb1p3IPC13hzAtji_Sxyr42naNTnj7xurmI8&name=weixin.png" width="120"/></td>
-    </tr>
-</table>
-
 ### 参与贡献
 
 - 欢迎各路英雄好汉参与Snowy全系版本代码贡献，期待您的加入！
@@ -267,11 +256,3 @@ jodconverter:
 - 代码可用于个人项目等接私活或企业项目脚手架使用，Snowy全系开源版完全免费
 - 二次开发如用于商业性质或开源竞品请先联系群主审核。
 - 请不要删除和修改Snowy源码头部的版权与作者声明及出处。
-
-### 小诺技术团队荣誉作品
-
-| 成员组成 | 负责内容 |
-| :---: | :---: |
-| 俞宝山 | 全栈 |
-| 徐玉祥 | 全栈 | 
-| 董夏雨 | 全栈 |
