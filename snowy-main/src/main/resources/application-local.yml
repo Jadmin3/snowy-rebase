@@ -2,13 +2,13 @@
 spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://localhost:3306/snowy-pub?autoReconnect=true&useUnicode=true&characterEncoding=utf8&zeroDateTimeBehavior=CONVERT_TO_NULL&useSSL=false&serverTimezone=CTT&nullCatalogMeansCurrent=true
+    url: jdbc:mysql://115.29.199.159:3306/snowy?autoReconnect=true&useUnicode=true&characterEncoding=utf8&zeroDateTimeBehavior=CONVERT_TO_NULL&useSSL=false&serverTimezone=CTT&nullCatalogMeansCurrent=true
     username: root
-    password: 123456
+    password: xxc5201314
   redis:
-    host: localhost
+    host: 115.29.199.159
     port: 6379
-    password:
+    password: 'xxc520'
 
 # Oracle数据库
 #spring:

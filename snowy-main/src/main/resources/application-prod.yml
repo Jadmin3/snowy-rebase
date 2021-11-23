@@ -8,7 +8,7 @@ spring:
   redis:
     host: localhost
     port: 6379
-    password:
+    password: "xxc520"
 
 # Oracle数据库
 #spring:
